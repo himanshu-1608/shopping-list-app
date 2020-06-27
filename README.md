@@ -15,5 +15,8 @@
   - Coroutines for DB handling
   - Kodein Dependency Injection
   
+  
+#### Activity(UI) <-->  ViewModel(LiveData) <--> Repository(Dao Methods) <--> Database(Room DB)
+
 ### Screenshots-
 <img src="./screenshots/ssmain.jpg" alt="Screenshot_MainActivity" height="460px" width="250px" style="display:inline-block"> <img src="./screenshots/ssdialog.jpg" alt="Screenshot_DialogBox" height="460px" width="250px" style="display:inline-block">
