@@ -3,7 +3,7 @@
 ![Vulnarabilities](https://img.shields.io/snyk/vulnerabilities/github/himanshu-1608/shopping-list-app)
 ![Code-Size](https://img.shields.io/github/languages/code-size/himanshu-1608/shopping-list-app?color=green)
 ![Issues](https://img.shields.io/bitbucket/issues-raw/himanshu-1608/shopping-list-app)
-![License](https://img.shields.io/github/license/himanshu-1608/shopping-list-app)
+![License](https://img.shields.io/github/license/himanshu-1608/shopping-list-app?color=purple)
 ![Completion](https://img.shields.io/badge/Project%20Completion-~100%25-blue)
 
 ### Important Aspects-
