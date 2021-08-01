@@ -1,7 +1,7 @@
-package com.thetechsamurai.genericshoppinglist.data.repositories
+package com.thetechsamurai.genericlist.data.repositories
 
-import com.thetechsamurai.genericshoppinglist.data.db.ShoppingDataBase
-import com.thetechsamurai.genericshoppinglist.data.db.entities.ShoppingItem
+import com.thetechsamurai.genericlist.data.db.ShoppingDataBase
+import com.thetechsamurai.genericlist.data.db.entities.ShoppingItem
 
 class ShoppingRepository(
     private val db: ShoppingDataBase

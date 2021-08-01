@@ -1,9 +1,9 @@
-package com.thetechsamurai.genericshoppinglist
+package com.thetechsamurai.genericlist
 
 import android.app.Application
-import com.thetechsamurai.genericshoppinglist.data.db.ShoppingDataBase
-import com.thetechsamurai.genericshoppinglist.data.repositories.ShoppingRepository
-import com.thetechsamurai.genericshoppinglist.ui.shoppinglist.ShoppingViewModelFactory
+import com.thetechsamurai.genericlist.data.db.ShoppingDataBase
+import com.thetechsamurai.genericlist.data.repositories.ShoppingRepository
+import com.thetechsamurai.genericlist.ui.shoppinglist.ShoppingViewModelFactory
 import org.kodein.di.Kodein
 import org.kodein.di.KodeinAware
 import org.kodein.di.android.x.androidXModule

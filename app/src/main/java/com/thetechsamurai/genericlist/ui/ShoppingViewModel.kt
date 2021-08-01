@@ -1,8 +1,8 @@
-package com.thetechsamurai.genericshoppinglist.ui
+package com.thetechsamurai.genericlist.ui
 
 import androidx.lifecycle.ViewModel
-import com.thetechsamurai.genericshoppinglist.data.db.entities.ShoppingItem
-import com.thetechsamurai.genericshoppinglist.data.repositories.ShoppingRepository
+import com.thetechsamurai.genericlist.data.db.entities.ShoppingItem
+import com.thetechsamurai.genericlist.data.repositories.ShoppingRepository
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch

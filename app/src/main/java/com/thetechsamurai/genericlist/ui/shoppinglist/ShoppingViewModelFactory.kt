@@ -1,9 +1,9 @@
-package com.thetechsamurai.genericshoppinglist.ui.shoppinglist
+package com.thetechsamurai.genericlist.ui.shoppinglist
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
-import com.thetechsamurai.genericshoppinglist.data.repositories.ShoppingRepository
-import com.thetechsamurai.genericshoppinglist.ui.ShoppingViewModel
+import com.thetechsamurai.genericlist.data.repositories.ShoppingRepository
+import com.thetechsamurai.genericlist.ui.ShoppingViewModel
 
 @Suppress("UNCHECKED_CAST")
 class ShoppingViewModelFactory(

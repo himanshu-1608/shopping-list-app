@@ -1,11 +1,11 @@
-package com.thetechsamurai.genericshoppinglist.ui.shoppinglist
+package com.thetechsamurai.genericlist.ui.shoppinglist
 
 import android.content.Context
 import android.os.Bundle
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatDialog
-import com.thetechsamurai.genericshoppinglist.R
-import com.thetechsamurai.genericshoppinglist.data.db.entities.ShoppingItem
+import com.thetechsamurai.genericlist.R
+import com.thetechsamurai.genericlist.data.db.entities.ShoppingItem
 import kotlinx.android.synthetic.main.dialog_add_shopping_item.*
 
 class AddShoppingItemDialog(context: Context, var addDialogListener: AddDialogListener): AppCompatDialog(context) {

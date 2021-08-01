@@ -1,10 +1,10 @@
-package com.thetechsamurai.genericshoppinglist.data.db
+package com.thetechsamurai.genericlist.data.db
 
 import android.content.Context
 import androidx.room.Database
 import androidx.room.Room
 import androidx.room.RoomDatabase
-import com.thetechsamurai.genericshoppinglist.data.db.entities.ShoppingItem
+import com.thetechsamurai.genericlist.data.db.entities.ShoppingItem
 
 @Database(
     entities = [ShoppingItem::class],

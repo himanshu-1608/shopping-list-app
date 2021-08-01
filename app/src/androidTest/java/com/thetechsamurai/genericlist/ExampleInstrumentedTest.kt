@@ -1,4 +1,4 @@
-package com.thetechsamurai.genericshoppinglist
+package com.thetechsamurai.genericlist
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

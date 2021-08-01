@@ -1,14 +1,14 @@
-package com.thetechsamurai.genericshoppinglist.ui.shoppinglist
+package com.thetechsamurai.genericlist.ui.shoppinglist
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.thetechsamurai.genericshoppinglist.R
-import com.thetechsamurai.genericshoppinglist.data.db.entities.ShoppingItem
-import com.thetechsamurai.genericshoppinglist.other.ShoppingItemAdapter
-import com.thetechsamurai.genericshoppinglist.ui.ShoppingViewModel
+import com.thetechsamurai.genericlist.R
+import com.thetechsamurai.genericlist.data.db.entities.ShoppingItem
+import com.thetechsamurai.genericlist.other.ShoppingItemAdapter
+import com.thetechsamurai.genericlist.ui.ShoppingViewModel
 import kotlinx.android.synthetic.main.activity_shopping.*
 import org.kodein.di.android.kodein
 import org.kodein.di.KodeinAware

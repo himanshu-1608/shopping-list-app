@@ -1,12 +1,12 @@
-package com.thetechsamurai.genericshoppinglist.other
+package com.thetechsamurai.genericlist.other
 
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.thetechsamurai.genericshoppinglist.R
-import com.thetechsamurai.genericshoppinglist.data.db.entities.ShoppingItem
-import com.thetechsamurai.genericshoppinglist.ui.ShoppingViewModel
+import com.thetechsamurai.genericlist.R
+import com.thetechsamurai.genericlist.data.db.entities.ShoppingItem
+import com.thetechsamurai.genericlist.ui.ShoppingViewModel
 import kotlinx.android.synthetic.main.shopping_item.view.*
 
 class ShoppingItemAdapter(

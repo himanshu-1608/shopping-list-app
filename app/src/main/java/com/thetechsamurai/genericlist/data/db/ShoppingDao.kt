@@ -1,8 +1,8 @@
-package com.thetechsamurai.genericshoppinglist.data.db
+package com.thetechsamurai.genericlist.data.db
 
 import androidx.lifecycle.LiveData
 import androidx.room.*
-import com.thetechsamurai.genericshoppinglist.data.db.entities.ShoppingItem
+import com.thetechsamurai.genericlist.data.db.entities.ShoppingItem
 
 @Dao
 interface ShoppingDao {

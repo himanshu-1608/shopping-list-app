@@ -1,4 +1,4 @@
-package com.thetechsamurai.genericshoppinglist
+package com.thetechsamurai.genericlist
 
 import org.junit.Test
 

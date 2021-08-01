@@ -1,4 +1,4 @@
-package com.thetechsamurai.genericshoppinglist.data.db.entities
+package com.thetechsamurai.genericlist.data.db.entities
 
 import androidx.room.ColumnInfo
 import androidx.room.Entity
